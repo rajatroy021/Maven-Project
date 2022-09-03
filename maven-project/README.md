@@ -37,7 +37,3 @@ e. Deployment
 9. Above process is covered with industry standards CI/CD pipeline from checkout till deployment phase including auto trigger from git to Jenkins.
 
 Please read & understand above project & description before mentioning it in the resume as we have already done above in the class.
-
-Please practise all above. Thanks for the consideration.
-
-Aamir Shaikh
